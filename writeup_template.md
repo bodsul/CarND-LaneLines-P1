@@ -15,7 +15,12 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./test_images_output/solidWhiteCurve.jpg_lanes "Grayscale"
+[image1]: ./test_images_output/solidWhiteRight.jpg_lanes
+[image2]: ./test_images_output/solidYellowCurve.jpg_lanes
+[image3]: ./test_images_output/solidYellowCurve2.jpg_lanes
+[image4]: ./test_images_output/solidYellowLeft.jpg_lanes
+[image5]: ./test_images_output/whiteCarLaneSwitch.jpg_lanes
+[image6]: ./test_images_output/solidWhiteCurve.jpg_lanes
 
 ---
 
