@@ -38,6 +38,11 @@ the average slope and intercept and picked a line that was closest to the averag
 Below are the results of the above algorithm to the example images:
 
 ![alt text][image1]
+![alt text][image2]
+![alt text][image3]
+![alt text][image4]
+![alt text][image5]
+![alt text][image6]
 
 
 ### 2. Identify potential shortcomings with your current pipeline
